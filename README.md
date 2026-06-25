@@ -3,6 +3,7 @@
 I'm a Full-Stack Developer specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and **Flutter** for cross-platform mobile development.
 
 🌐 Portfolio: https://animesh-portfolio-pink.vercel.app/
+🌐 Linkedin : https://www.linkedin.com/in/animesh-agarwal-74a297242/
 
 ---
 
